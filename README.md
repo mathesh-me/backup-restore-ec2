@@ -1,7 +1,12 @@
-![b10](https://github.com/itz-mathesh/backup-restore-ec2/assets/144098846/229882a5-a577-466a-a8db-2e3cbfcb28ac)# EC2 Backup and Restore Management :
+# EC2 Backup and Restore Management :
 
 ## Project Overview:
 The "EC2 Backup and Restore Management" project aims to establish robust data protection and recovery procedures for Amazon Elastic Compute Cloud (EC2) instances within our AWS environment. It focuses on creating automated backup schedules, implementing efficient data recovery processes, and developing comprehensive disaster recovery plans to ensure data resilience and minimal downtime in the face of unexpected failures. The project will enhance our data security, availability, and overall operational continuity.
+
+## Overview :
+
+![Blank diagram (2)](https://github.com/itz-mathesh/backup-restore-ec2/assets/144098846/faca2984-3e33-4639-80e4-a584ef910da7)
+
 
 ## Project Objectives:
 1. We have to create a custom EC2 instance with the necessary software and configurations.
@@ -65,6 +70,41 @@ The "EC2 Backup and Restore Management" project aims to establish robust data pr
 #### Steps :
 
 
+![b99](https://github.com/itz-mathesh/backup-restore-ec2/assets/144098846/b10f63f0-92a5-4e43-853d-105ef9407f51)
 
+
+![b100](https://github.com/itz-mathesh/backup-restore-ec2/assets/144098846/f4f90d91-41fe-45dc-ba2c-b8aa279a59da)
+
+
+### Step 4 :
+### Banking-up and Restore the Data :
+
+1. Now , Iam going to Create a new instance to retrieve data.
+
+#### Steps :
+
+
+![b12](https://github.com/itz-mathesh/backup-restore-ec2/assets/144098846/91cbb8ec-b749-4ed6-9ce3-28c1a449769d)
+
+
+![c1](https://github.com/itz-mathesh/backup-restore-ec2/assets/144098846/ba690c68-01f5-4425-bb0e-0690206ebe54)
+
+
+![c2](https://github.com/itz-mathesh/backup-restore-ec2/assets/144098846/d89d00c8-059e-4acc-b967-fb1d9c53e7ac)
+
+
+![c3](https://github.com/itz-mathesh/backup-restore-ec2/assets/144098846/d8944a13-e1cd-4f57-96e8-e21a2d689aee)
+
+
+![c4](https://github.com/itz-mathesh/backup-restore-ec2/assets/144098846/ef725fb6-9131-45fa-a78f-a30fc8cbb59f)
+
+
+![c5](https://github.com/itz-mathesh/backup-restore-ec2/assets/144098846/16c4c8fd-4b29-42a6-9b06-e22900d85abb)
+
+
+![c6](https://github.com/itz-mathesh/backup-restore-ec2/assets/144098846/69116087-1bbe-4526-9d15-b90c8df9814c)
+
+
+### We successfully backed-up and restore tha Old Data.
 
 
