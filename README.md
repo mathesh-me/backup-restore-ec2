@@ -105,6 +105,6 @@ The "EC2 Backup and Restore Management" project aims to establish robust data pr
 ![c6](https://github.com/itz-mathesh/backup-restore-ec2/assets/144098846/69116087-1bbe-4526-9d15-b90c8df9814c)
 
 
-### We successfully backed-up and restore tha Old Data.
+### We successfully backed-up and restored the Old Data.
 
 
