@@ -5,7 +5,7 @@ The "EC2 Backup and Restore Management" project aims to establish robust data pr
 
 ## Overview :
 
-![Blank diagram (3)](https://github.com/itz-mathesh/backup-restore-ec2/assets/144098846/636eea64-92c4-4e96-b2fb-1eeda9df0d39)
+![Blank diagram (4)](https://github.com/itz-mathesh/backup-restore-ec2/assets/144098846/60617430-ab6f-4bb5-896f-7ae1aa4d6762)
 
 
 
